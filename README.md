@@ -9,9 +9,6 @@ I'm passionate about Machine Learning, SQL Querying, Data Analysis, and Visualiz
 - Recommender Engines (like Netflix)
 - AI-Assistants
 
-## 👯 Looking to Collaborate On
-- Research Papers
-
 ## 🚀 Seeking Opportunities
 - I'm currently looking for work in Machine Learning and Data Science.
 
