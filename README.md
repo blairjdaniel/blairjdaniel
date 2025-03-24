@@ -6,7 +6,7 @@ I'm passionate about Machine Learning, SQL Querying, Data Analysis, and Visualiz
 - **Final Project:** NHL Recommender Engine
 
 ## 🌱 Currently Learning
-- AutoML
+- Recommender Engines (like Netflix)
 - AI-Assistants
 
 ## 👯 Looking to Collaborate On
